@@ -1,0 +1,29 @@
+#main-page-button {
+	font-size: 16px;
+		display: block;
+  margin-left: auto;
+  margin-right: auto;;
+    background: green;
+  color: white;
+  font-weight: bold;
+}
+body{
+  font-family:Arial, Helvetica, sans-serif
+}
+
+h1 {
+	background-color: rgb(200, 200, 200);
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+.img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;;
+}
+h2 {
+	  text-align: center;
+	  	background-color: rgb(200, 200, 200);
+}
+
